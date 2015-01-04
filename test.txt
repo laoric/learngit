@@ -1,1 +1,1 @@
-only for Git.
+test for Git only.
