@@ -1,1 +1,2 @@
 test the function of command 'git rm' in Git.
+听说 git rm 删掉的文件不能再恢复了。
